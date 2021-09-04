@@ -1,4 +1,4 @@
-dic = {{tf= "ddənya", en= "the world"},
+return {{tf= "ddənya", en= "the world"},
 {tf= "ŧammua’ŧ", en= "the land"},
 {tf= "šař", en= "the soil"},
 {tf= "ŧaʕəžžašŧ", en= "the dust"},
